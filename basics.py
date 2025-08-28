@@ -33,6 +33,7 @@ is_old_enough_to_drive = age >= 16
 
 
 # Your turn.  Create a comparison statement 
+is_old_enough_to_drink = age>= 21
 
 
 #Finally, save this file, commit, and push to github
